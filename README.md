@@ -11,10 +11,14 @@ Another goal of the model enhancement is to enhance the accuracy of maize tassel
 The performance of the GELAN-Tassel model has been boosted to 82% on the maize-tassel dataset, an increase of 2%. Moreover, when tested on smaller maize tassels and larger image sizes, the model maintains significant performance at 83%, an improvement of 1.6% compared to the original model. It also performs notably well on entirely different datasets such as pedestrian detection, showcasing its potential applications in future scenarios such as rescue operations and urban area management...
 
 #Training Evaluation Results
-
-<img src="img/val.jpg" width="300" height="60" />
+<p align="center">
+    <img src="img/val.jpg" width="50%">
+</p>
 
 <img src="img/gelan.jpg" width="300" height="60" />
 
 <img src="img/gelan.jpg" width="300" height="60" />
+
+*** The model was modified from a paper YOLOv9 of WongKinYiu with github link: https://github.com/WongKinYiu/yolov9, license included.
+
 
