@@ -12,3 +12,9 @@ The performance of the GELAN-Tassel model has been boosted to 82% on the maize-t
 
 #Training Evaluation Results
 
+<img src="img/val.jpg" width="300" height="60" />
+
+<img src="img/gelan.jpg" width="300" height="60" />
+
+<img src="img/gelan.jpg" width="300" height="60" />
+
