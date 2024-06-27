@@ -12,12 +12,16 @@ The performance of the GELAN-Tassel model has been boosted to 82% on the maize-t
 
 #Training Evaluation Results
 <p align="center">
-    <img src="img/val.jpg" width="50%">
+    <img src="img/val.jpg" width="70%">
 </p>
 
-<img src="img/gelan.jpg" width="300" height="60" />
+<p align="center">
+    <img src="img/gelan.jpg" width="50%">
+</p>
 
-<img src="img/gelan.jpg" width="300" height="60" />
+<p align="center">
+    <img src="img/gelan-tassel.jpg" width="50%">
+</p>
 
 *** The model was modified from a paper YOLOv9 of WongKinYiu with github link: https://github.com/WongKinYiu/yolov9, license included.
 
